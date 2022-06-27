@@ -16,7 +16,7 @@ MarkupSafe==1.0
 Pillow==5.2.0
 psycopg2==2.7.5
 pytz==2018.5
-reportlab==3.5.1
+reportlab==3.5.55
 six==1.11.0
 Werkzeug==0.14.1
 whitenoise==3.3.1
